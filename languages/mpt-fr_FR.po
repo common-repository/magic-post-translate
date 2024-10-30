@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Post Translate\n"
+"POT-Creation-Date: 2020-06-22 23:27+0200\n"
+"PO-Revision-Date: 2020-06-22 23:27+0200\n"
+"Last-Translator: \n"
+"Language-Team: Alexandre Gaboriau\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin/langs.php:11
+msgid "Magic Post Translate : Settings"
+msgstr "Magic Post Translate : Réglages"
+
+#: inc/admin/langs.php:27
+msgid "Original language"
+msgstr "Langue originale"
+
+#: inc/admin/langs.php:36 inc/admin/langs.php:74
+msgid "English"
+msgstr "Anglais"
+
+#: inc/admin/langs.php:37 inc/admin/langs.php:75
+msgid "German"
+msgstr "Allemand"
+
+#: inc/admin/langs.php:38 inc/admin/langs.php:76
+msgid "French"
+msgstr "Français"
+
+#: inc/admin/langs.php:39 inc/admin/langs.php:77
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: inc/admin/langs.php:40
+msgid "Portuguese (mixed)"
+msgstr "Portugais (mixé)"
+
+#: inc/admin/langs.php:41 inc/admin/langs.php:80
+msgid "Italian"
+msgstr "Italien"
+
+#: inc/admin/langs.php:42 inc/admin/langs.php:81
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: inc/admin/langs.php:43 inc/admin/langs.php:82
+msgid "Polish"
+msgstr "Polonais"
+
+#: inc/admin/langs.php:44 inc/admin/langs.php:83
+msgid "Russian"
+msgstr "Russe"
+
+#: inc/admin/langs.php:45 inc/admin/langs.php:84
+msgid "Japanese"
+msgstr "Japonais"
+
+#: inc/admin/langs.php:46 inc/admin/langs.php:85
+msgid "Chinese"
+msgstr "Chinois"
+
+#: inc/admin/langs.php:56
+msgid "Language of the text to be translated."
+msgstr "Langue du texte à traduire."
+
+#: inc/admin/langs.php:65
+msgid "Target language"
+msgstr "Langue cible"
+
+#: inc/admin/langs.php:78
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: inc/admin/langs.php:79
+msgid "Portuguese (Brazilian)"
+msgstr "Portugais (Brésilien)"
+
+#: inc/admin/langs.php:95
+msgid "The language into which the text should be translated."
+msgstr "La langue dans laquelle le texte doit être traduit."
+
+#: inc/admin/langs.php:102
+msgid "Deepl API key"
+msgstr "Clé API Deepl"
+
+#: inc/admin/main.php:11
+msgid "Magic Post Translate : Generate"
+msgstr "Magic Post Translate : Générer"
+
+#: inc/admin/main.php:41
+msgid "Relevant post type"
+msgstr "Type de contenu concernés"
+
+#: inc/admin/main.php:65
+msgid "Relevant categories"
+msgstr "Catégories concernées"
+
+#: inc/admin/main.php:87
+msgid "Save & Generate"
+msgstr "Enregistrer & Générer"
+
+#: magic-post-translate.php:95
+msgid "Generate translation with Deepl"
+msgstr "Générer une traduction avec Deepl"
+
+#: magic-post-translate.php:146
+msgid "Successful generation !!"
+msgstr "Génération réussie !!"
+
+#: magic-post-translate.php:147
+msgid "Error with translations generation"
+msgstr "Erreur de génération des traductions"
+
+#: magic-post-translate.php:148
+msgid "Error with the plugin"
+msgstr "Erreur avec le plugin"
+
+#: magic-post-translate.php:166
+msgid "No API Key"
+msgstr "Clé API manquante"
+
+#: magic-post-translate.php:195
+msgid "Problem with Deepl API : Nothing received"
+msgstr "Problème avec l'API Deepl : Rien reçu"
+
+#: magic-post-translate.php:297
+msgid "Magic Post Translate Options"
+msgstr "Options de Magic Post Translate"
+
+#: magic-post-translate.php:307 magic-post-translate.php:308
+#: magic-post-translate.php:419
+msgid "Settings"
+msgstr "Réglages"
+
+#: magic-post-translate.php:382 magic-post-translate.php:390
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: magic-post-translate.php:452
+msgid "Post translated"
+msgstr "Article traduit"
+
+#: magic-post-translate.php:485
+msgid "Generate translation"
+msgstr "Générer traduction"
+
+#: magic-post-translate.php:493 magic-post-translate.php:533
+msgid "Translated"
+msgstr "Traduit"
+
+#: magic-post-translate.php:508 magic-post-translate.php:537
+msgid "Yes"
+msgstr "Oui"
+
+#: magic-post-translate.php:511 magic-post-translate.php:536
+msgid "No"
+msgstr "Non"
+
+#: magic-post-translate.php:535
+msgid "No change"
+msgstr "Pas de changement"
+
+#: magic-post-translate.php:594
+msgid "Translation for "
+msgstr "La traduction pour "
+
+#: magic-post-translate.php:594
+msgid " already exists"
+msgstr " existe déjà"
+
+#: magic-post-translate.php:598
+msgid "Problem with translation for "
+msgstr "Problème de traduction pour "
+
+#: magic-post-translate.php:600
+msgid "Successful translation for "
+msgstr "Traduction réussie pour "
+
+#~ msgid "Unable to load WordPress functions."
+#~ msgstr "Impossible de charger les fonctions de WordPress."
+
+#~ msgid "Options"
+#~ msgstr "Options"
